@@ -1,1 +1,1 @@
-This is Sophie Zhang's Github
+This is Sophie Zhang's STEM Club on Github
