@@ -47,6 +47,8 @@ Science:
 Pull slowly? It stretches!
 
 Pull fast? It snaps!
+
+
 <img width="389" height="263" alt="image" src="https://github.com/user-attachments/assets/0775d54b-9250-4738-9b5d-e75074f698f8" />
 <img width="206" height="215" alt="image" src="https://github.com/user-attachments/assets/bea23898-6bdb-4940-8a20-2ffbfff26547" />
 <img width="341" height="200" alt="image" src="https://github.com/user-attachments/assets/561740b5-34ab-4085-b7d5-a0d8d94f131c" />
