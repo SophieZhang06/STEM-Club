@@ -1,4 +1,5 @@
 Materials:
+
 ●	Hot water
 
 ●	Baking soda
@@ -12,6 +13,7 @@ Materials:
 ●	Cups
 
 Lesson plan:
+
 ●	Introduce experiment (5 minutes)
 
 ●	Discuss science and instructions (10 minutes)
