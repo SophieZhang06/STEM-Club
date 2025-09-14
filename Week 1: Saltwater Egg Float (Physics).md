@@ -38,4 +38,5 @@ Science:
 ●	Salt water is denser than fresh water. 
 
 ●	The egg floats when the liquid density is greater than the egg's density
-![Week-1-01](https://github.com/user-attachments/assets/2881aba1-d496-4d13-bccd-11f07d1e460e)
+<img width="370" height="358" alt="image" src="https://github.com/user-attachments/assets/2dd0eb8e-945c-4bdc-aef3-00166ccace84" />
+
