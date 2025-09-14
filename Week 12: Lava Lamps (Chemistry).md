@@ -66,8 +66,7 @@ Science behind the effect:
 
 ■	At the surface, these bubbles pop, and the coloured water sinks back down
 
-<img width="518" height="508" alt="image" src="https://github.com/user-attachments/assets/bcace811-9d62-4561-8388-6731e5189eb0" />
-<img width="518" height="508" alt="image" src="https://github.com/user-attachments/assets/4a9a4f07-4794-4f7a-9cd5-9a8d68e7a80a" />
+
 <img width="418" height="244" alt="image" src="https://github.com/user-attachments/assets/b926a8ad-539c-4b54-a46d-d5654e769765" />
 <img width="518" height="508" alt="image" src="https://github.com/user-attachments/assets/db500718-ca39-4cfd-93b8-b0b1404208f0" />
 
