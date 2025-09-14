@@ -36,4 +36,6 @@ Science:
 
 ●	Earth magnetic field pulls the magnetized needle to point north
 
-<img width="468" height="492" alt="Week-2-01" src="https://github.com/user-attachments/assets/5ce16469-a15b-47b4-a8e3-34d3d2f6bddf" />
+<img width="330" height="232" alt="image" src="https://github.com/user-attachments/assets/5eef2ecd-b95a-41c6-9309-56183786f4b9" /><img width="340" height="228" alt="image" src="https://github.com/user-attachments/assets/67aa2911-ad9f-4bd3-9ec9-396d7db5a8e7" />
+
+
