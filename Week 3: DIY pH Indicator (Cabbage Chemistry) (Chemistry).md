@@ -48,5 +48,25 @@ Color Changes by Acidity
   <img width="443" height="294" alt="image" src="https://github.com/user-attachments/assets/4c08c9bc-f220-431a-8eb0-cff2ae4d7968" />
   <img width="864" height="337" alt="image" src="https://github.com/user-attachments/assets/888f6ad2-c76c-4f64-9904-e19ee6afbd13" />
 
+●	Example Household Liquids
+
+  ○	Vinegar or lemon juice: Red
+  
+  ○	Tap water: Purple (close to neutral)
+  
+  ○	Sugar water: Stays purple (sugar doesn’t change acidity)
+  
+  ○	Baking soda solution: Blue or blue-green
+  
+  ○	Soapy water or ammonia cleaner: Greenish-yellow
+  
+
+👉 This is why purple cabbage juice is often used as a natural pH indicator in classrooms—it provides a rainbow of colors to demonstrate acidity and alkalinity
+
+
+<img width="403" height="265" alt="image" src="https://github.com/user-attachments/assets/c390fc9b-3715-497f-8114-fa06edc11559" /><img width="402" height="266" alt="image" src="https://github.com/user-attachments/assets/4372eb27-9dc7-413d-9321-d769411781dc" />
+
+
+    
 
 
